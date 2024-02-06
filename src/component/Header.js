@@ -41,7 +41,7 @@ function Header() {
                         </a>
                       </li>
                       <li>
-                        <a href="/#about">About</a>
+                        <a href="/about">About</a>
                       </li>
                       <li>
                         <a href="/#skill">Skill</a>
